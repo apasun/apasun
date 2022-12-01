@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apasun
-- 👀 I’m interested in all things human
+- 👀 I’m interested in all things human (art, wine, food, travel, music, drama..)
 - 🌱 I’m currently learning about the OpenSearch user
 - 💞️ I’m looking to collaborate on how to imporve OpenSearch
 - 📫 How to reach me twitter: https://twitter.com/asundartweets
