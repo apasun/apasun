@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things human (art, wine, food, travel, music, drama..)
 - 🌱 I’m currently learning about the OpenSearch user
 - 💞️ I’m looking to collaborate on how to imporve OpenSearch
-- 📫 How to reach me twitter: https://twitter.com/asundartweets
+- 📫 How to reach me: OpenSearchResearch@amazon.com
 
 <!---
 apasun/apasun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
